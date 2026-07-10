@@ -1,0 +1,162 @@
+{
+ "meta": {
+  "version": 1,
+  "updated": "2026-07-10",
+  "quarter": "2026-Q3",
+  "geoStat": "AI Overviews staan nu in 48% van de zoekopdrachten — AI-verkeer converteert op 7,1%.",
+  "source": "onderzoek SEO/GEO-benchmarks 2026"
+ },
+ "industries": {
+  "mkb": {
+   "label": "MKB Algemeen",
+   "points": [
+    {
+     "month": 0,
+     "verkeer": 40,
+     "conversies": 20
+    },
+    {
+     "month": 1,
+     "verkeer": 48,
+     "conversies": 23
+    },
+    {
+     "month": 2,
+     "verkeer": 57,
+     "conversies": 28
+    },
+    {
+     "month": 3,
+     "verkeer": 69,
+     "conversies": 34
+    },
+    {
+     "month": 4,
+     "verkeer": 83,
+     "conversies": 41
+    },
+    {
+     "month": 5,
+     "verkeer": 99,
+     "conversies": 50
+    },
+    {
+     "month": 6,
+     "verkeer": 118,
+     "conversies": 61
+    },
+    {
+     "month": 7,
+     "verkeer": 140,
+     "conversies": 73
+    },
+    {
+     "month": 8,
+     "verkeer": 164,
+     "conversies": 88
+    },
+    {
+     "month": 9,
+     "verkeer": 146,
+     "conversies": 80
+    }
+   ],
+   "trafficStart": 40,
+   "trafficEnd": 146,
+   "convStart": 20,
+   "convEnd": 80,
+   "roi": "2.1x",
+   "breakEven": "~6-9 maanden"
+  },
+  "ecommerce": {
+   "label": "E-commerce",
+   "trafficStart": 100,
+   "trafficEnd": 350,
+   "convStart": 10,
+   "convEnd": 33,
+   "roi": "3.17x",
+   "breakEven": "9 maanden",
+   "extra": "ROAS: 3.65x | Conv. Rate: 1.5% - 3.0%"
+  },
+  "b2b": {
+   "label": "Zakelijk (B2B)",
+   "trafficStart": 50,
+   "trafficEnd": 193,
+   "convStart": 5,
+   "convEnd": 18,
+   "roi": "7.2x",
+   "breakEven": "7 maanden",
+   "extra": "ROAS: 8.75x | Conv. Rate: 2.1%"
+  },
+  "bouw": {
+   "label": "Bouw & Installatie",
+   "trafficStart": 60,
+   "trafficEnd": 243,
+   "convStart": 4,
+   "convEnd": 18,
+   "roi": "6.8x",
+   "breakEven": "5 maanden",
+   "extra": "ROAS: 7.40x | Conv. Rate: 3.3% - 5.0%"
+  },
+  "local": {
+   "label": "Lokale Horeca",
+   "trafficStart": 80,
+   "trafficEnd": 272,
+   "convStart": 15,
+   "convEnd": 56,
+   "roi": "4.0x",
+   "breakEven": "~4-6 maanden",
+   "extra": "High Conv. (Calls/Directions) | Bron: Maps/Mobile"
+  },
+  "finance": {
+   "label": "Financieel",
+   "trafficStart": 30,
+   "trafficEnd": 99,
+   "convStart": 2,
+   "convEnd": 8,
+   "roi": "10.3x",
+   "breakEven": "9 maanden",
+   "extra": "ROAS: 11.10x | Conv. Rate: ~2.0% - 4.0%"
+  },
+  "zorg": {
+   "label": "Zorg & Welzijn",
+   "trafficStart": 50,
+   "trafficEnd": 158,
+   "convStart": 5,
+   "convEnd": 20,
+   "roi": "11.8x",
+   "breakEven": "13 maanden",
+   "extra": "ROAS: 12.85x | Traffic Growth: +300%"
+  },
+  "saas": {
+   "label": "Technologie & SaaS",
+   "trafficStart": 80,
+   "trafficEnd": 308,
+   "convStart": 5,
+   "convEnd": 15,
+   "roi": "7.0x",
+   "breakEven": "7 maanden",
+   "extra": "ROAS: 8.75x | Conv. Rate: 2.1%"
+  },
+  "vastgoed": {
+   "label": "Vastgoed",
+   "trafficStart": 100,
+   "trafficEnd": 360,
+   "convStart": 5,
+   "convEnd": 19,
+   "roi": "13.9x",
+   "breakEven": "10 maanden",
+   "extra": "ROAS: 15.10x | Conv. Rate: 3.0% - 5.0%"
+  },
+  "opleiding": {
+   "label": "Opleidingen",
+   "trafficStart": 60,
+   "trafficEnd": 198,
+   "convStart": 4,
+   "convEnd": 14,
+   "roi": "9.9x",
+   "breakEven": "13 maanden",
+   "extra": "ROAS: 10.40x | Higher Ed"
+  }
+ }
+}
